@@ -1,4 +1,4 @@
-# istio
+# istio - Service Mesh
 
 * istio Control plane exist on `istio-system` namespace ( istiod or istio deamon )
 
